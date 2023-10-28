@@ -16,7 +16,7 @@
 
 ## 🛠️ 사용한 기술 🛠
 
-**FrontEnd** HTML / CSS / Bootstrap
+**FrontEnd** HTML / CSS / Bootstrap / VUE
 
 **BackEnd** Python / Django
 
